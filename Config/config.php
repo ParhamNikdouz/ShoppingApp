@@ -22,10 +22,10 @@ class config
   }
   public function DbConfig()
   {
-    $this->serverName = 'localhost';
-    $this->userName = 'root';
-    $this->passWord = '13461353';
-    $this->dbName = 'phpTest';
+    $this->serverName = '';
+    $this->userName = '';
+    $this->passWord = '';
+    $this->dbName = '';
   }
 }
 ?>
